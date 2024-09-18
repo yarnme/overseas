@@ -1,2 +1,2 @@
 ##.conch-search
-||www.languang.pro^$image
+||languang.pro^$image
